@@ -1,0 +1,12 @@
+G:\KSP Modding\plugin\AnimatedIntakes\AnimatedIntakes\AnimatedIntakes\bin\Debug\AnimatedIntakes.dll
+G:\KSP Modding\plugin\AnimatedIntakes\AnimatedIntakes\AnimatedIntakes\bin\Debug\AnimatedIntakes.pdb
+G:\KSP Modding\plugin\AnimatedIntakes\AnimatedIntakes\AnimatedIntakes\bin\Debug\Assembly-CSharp.dll
+G:\KSP Modding\plugin\AnimatedIntakes\AnimatedIntakes\AnimatedIntakes\bin\Debug\UnityEngine.dll
+G:\KSP Modding\plugin\AnimatedIntakes\AnimatedIntakes\AnimatedIntakes\bin\Debug\Assembly-CSharp-firstpass.dll
+G:\KSP Modding\plugin\AnimatedIntakes\AnimatedIntakes\AnimatedIntakes\bin\Debug\TDx.TDxInput.dll
+G:\KSP Modding\plugin\AnimatedIntakes\AnimatedIntakes\AnimatedIntakes\bin\Debug\TrackIRUnity.dll
+G:\KSP Modding\plugin\AnimatedIntakes\AnimatedIntakes\AnimatedIntakes\bin\Debug\Mono.Cecil.dll
+G:\KSP Modding\plugin\AnimatedIntakes\AnimatedIntakes\AnimatedIntakes\bin\Debug\Mono.Security.dll
+G:\KSP Modding\plugin\AnimatedIntakes\AnimatedIntakes\AnimatedIntakes\obj\Debug\AnimatedIntakes.csprojResolveAssemblyReference.cache
+G:\KSP Modding\plugin\AnimatedIntakes\AnimatedIntakes\AnimatedIntakes\obj\Debug\AnimatedIntakes.dll
+G:\KSP Modding\plugin\AnimatedIntakes\AnimatedIntakes\AnimatedIntakes\obj\Debug\AnimatedIntakes.pdb

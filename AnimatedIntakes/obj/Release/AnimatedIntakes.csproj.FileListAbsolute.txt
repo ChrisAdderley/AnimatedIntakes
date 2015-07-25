@@ -1,0 +1,5 @@
+G:\Games\Steam\SteamApps\common\Kerbal Space Program\GameData\MarkIVSystem\Plugins\AnimatedIntakes.dll
+G:\Games\Steam\SteamApps\common\Kerbal Space Program\GameData\MarkIVSystem\Plugins\AnimatedIntakes.pdb
+G:\KSP Modding\plugin\AnimatedIntakes\AnimatedIntakes\AnimatedIntakes\obj\Release\AnimatedIntakes.csprojResolveAssemblyReference.cache
+G:\KSP Modding\plugin\AnimatedIntakes\AnimatedIntakes\AnimatedIntakes\obj\Release\AnimatedIntakes.dll
+G:\KSP Modding\plugin\AnimatedIntakes\AnimatedIntakes\AnimatedIntakes\obj\Release\AnimatedIntakes.pdb
